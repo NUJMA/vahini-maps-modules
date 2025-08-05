@@ -18,7 +18,7 @@ Each module below is built using **HTML, CSS, and JavaScript**, and designed to 
 - Collects user input on safety experiences.
 - Includes form validation and UI alerts for submission success.
 
-### ⭐ 3. [Safe Time Estimator](https://github.com/yourusername/safe-time)
+### ⭐ 3. [Safe Time Estimator](https://github.com/NUJMA/Safe-Time)
 - Shows safe and risky travel times based on current location and time of day.
 - Dynamic and responsive UI elements.
 
