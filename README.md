@@ -22,7 +22,7 @@ Each module below is built using **HTML, CSS, and JavaScript**, and designed to 
 - Shows safe and risky travel times based on current location and time of day.
 - Dynamic and responsive UI elements.
 
-### ⭐ 4. [Business Safety Verification Badge](https://github.com/yourusername/business-badge)
+### ⭐ 4. [Business Safety Verification Badge](https://github.com/NUJMA/Business-safety-)
 - Adds a visual “Safety Verified” tag for trusted local businesses.
 - Includes hover effects and conditional badge rendering.
 
