@@ -14,7 +14,7 @@ Each module below is built using **HTML, CSS, and JavaScript**, and designed to 
 - Allows users to rate how safe a particular zone feels.
 - Designed as a modal with multiple rating options.
 
-### ⭐ 2. [Feedback System](https://github.com/yourusername/feedback-form)
+### ⭐ 2. [Feedback System](https://github.com/NUJMA/Feedback-Form)
 - Collects user input on safety experiences.
 - Includes form validation and UI alerts for submission success.
 
