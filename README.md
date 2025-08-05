@@ -10,7 +10,7 @@ Each module below is built using **HTML, CSS, and JavaScript**, and designed to 
 
 ## 🔹 Modules Developed
 
-### ⭐ 1. [Zone Rating Popup](https://github.com/yourusername/zone-rating)
+### ⭐ 1. [Zone Rating Popup](https://github.com/NUJMA/Rating-popup)
 - Allows users to rate how safe a particular zone feels.
 - Designed as a modal with multiple rating options.
 
